@@ -14,7 +14,6 @@ type
     Button3: TButton;
     Button4: TButton;
     Button5: TButton;
-    Image1: TImage;
     GroupBox2: TGroupBox;
     Button6: TButton;
     GroupBox3: TGroupBox;
