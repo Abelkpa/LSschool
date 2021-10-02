@@ -2,7 +2,7 @@ object formmain: Tformmain
   Left = 0
   Top = 0
   Caption = #1052#1054#1059#1057#1054#1064' '#8470'5'
-  ClientHeight = 749
+  ClientHeight = 1005
   ClientWidth = 1370
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
@@ -6670,7 +6670,7 @@ object formmain: Tformmain
       Top = 48
       Width = 240
       Height = 25
-      Caption = #1059#1095#1080#1090#1077#1083#1103
+      Caption = #1055#1088#1077#1087#1086#1076#1072#1074#1072#1090#1077#1083#1080
       TabOrder = 0
       OnClick = Button1Click
     end
@@ -6679,16 +6679,16 @@ object formmain: Tformmain
       Top = 120
       Width = 240
       Height = 25
-      Caption = #1059#1095#1077#1085#1080#1082#1080
+      Caption = #1057#1090#1091#1076#1077#1085#1090#1099
       TabOrder = 1
       OnClick = Button2Click
     end
     object Button3: TButton
       Left = 3
-      Top = 200
+      Top = 211
       Width = 240
       Height = 25
-      Caption = #1050#1083#1072#1089#1089#1099
+      Caption = #1043#1088#1091#1087#1087#1099
       TabOrder = 2
       OnClick = Button3Click
     end
@@ -6697,7 +6697,7 @@ object formmain: Tformmain
       Top = 280
       Width = 240
       Height = 25
-      Caption = #1050#1072#1073#1080#1085#1077#1090#1099
+      Caption = #1040#1091#1076#1080#1090#1086#1088#1080#1080
       TabOrder = 3
       OnClick = Button4Click
     end
@@ -6724,7 +6724,7 @@ object formmain: Tformmain
       Top = 64
       Width = 153
       Height = 25
-      Caption = #1059#1089#1087#1077#1074#1072#1077#1084#1086#1089#1090#1100' '#1091#1095#1077#1085#1080#1082#1086#1074
+      Caption = #1059#1089#1087#1077#1074#1072#1077#1084#1086#1089#1090#1100' '#1089#1090#1091#1076#1077#1085#1090#1086#1074
       TabOrder = 0
       OnClick = Button6Click
     end
@@ -6741,7 +6741,7 @@ object formmain: Tformmain
       Top = 32
       Width = 179
       Height = 25
-      Caption = #1054#1090#1095#1077#1090' '#1087#1086' '#1091#1089#1087#1077#1074#1072#1077#1084#1086#1089#1090#1080' '#1091#1095#1077#1085#1080#1082#1072
+      Caption = #1054#1090#1095#1077#1090' '#1087#1086' '#1091#1089#1087#1077#1074#1072#1077#1084#1086#1089#1090#1080' '#1089#1090#1091#1076#1077#1085#1090#1086#1074
       TabOrder = 0
       OnClick = Button7Click
     end
@@ -6751,7 +6751,7 @@ object formmain: Tformmain
     Top = 328
     Width = 179
     Height = 25
-    Caption = #1054#1090#1095#1077#1090' '#1087#1086' '#1091#1089#1087#1077#1074#1072#1077#1084#1086#1089#1090#1080' '#1082#1083#1072#1089#1089#1072
+    Caption = #1054#1090#1095#1077#1090' '#1087#1086' '#1091#1089#1087#1077#1074#1072#1077#1084#1086#1089#1090#1080' '#1075#1088#1091#1087#1087#1099
     TabOrder = 3
     OnClick = Button9Click
   end
